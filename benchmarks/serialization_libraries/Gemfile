@@ -12,8 +12,10 @@ gem "benchmark-memory"
 gem 'awesome_print'
 gem 'pry-byebug'
 gem 'kalibera'
+gem 'rb-readline'
 
 
 # The Serialization libs benchmarked:
 gem 'active_model_serializers'
 gem 'jsonapi-rb'
+gem 'jsonapi-resources'
